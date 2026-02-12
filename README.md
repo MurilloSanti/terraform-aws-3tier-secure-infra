@@ -1,4 +1,4 @@
-# 🚀 Terraform AWS 3-Tier Secure Infrastructure
+# 🚀 Terraform AWS 3-Tier Secure Infrastructure por Murillo Santiago
 
 Infraestrutura segura e escalável na AWS utilizando Terraform.
 
@@ -77,25 +77,4 @@ terraform init
 terraform plan
 terraform apply
 
-📈 Conceitos aplicados
-
-Infrastructure as Code (IaC)
-
-AWS Networking
-
-Load Balancing
-
-Alta Disponibilidade
-
-Segurança em camadas
-
-Terraform State Management
-
-IAM Roles
-
-NAT para isolamento de backend
-
-👨‍💻 Autor
-
-Murillo Santiago
 
